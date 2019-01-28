@@ -26,6 +26,9 @@
 *.a
 *.lib
 
+# Debug Symbols
+*.dSYM
+
 # Executables
 *.exe
 *.out
